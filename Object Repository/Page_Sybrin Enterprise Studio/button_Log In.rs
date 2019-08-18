@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Log In</name>
    <tag></tag>
-   <elementGuidId>b45f86b0-ccdf-47cb-a73c-8cf8a98ca81d</elementGuidId>
+   <elementGuidId>a75bf757-3466-4788-9389-e343c2ba2b9e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -80,14 +80,14 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an account'])[1]/preceding::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/preceding::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit HTML'])[1]/preceding::button[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

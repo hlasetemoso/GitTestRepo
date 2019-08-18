@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Password_passwordBox</name>
    <tag></tag>
-   <elementGuidId>b3060e47-8a85-4c15-ab76-cee6392ff72e</elementGuidId>
+   <elementGuidId>53a67e44-0452-44a4-bcc6-4bb0ba0d979b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

@@ -3,7 +3,7 @@
    <description></description>
    <name>input_User Name_usernameBox</name>
    <tag></tag>
-   <elementGuidId>706ae9ba-9e2d-42d2-83b9-b59f8e708017</elementGuidId>
+   <elementGuidId>fd0930ea-82a1-42b8-8013-da41dd76e8de</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -45,7 +45,7 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-untouched ng-pristine ng-valid ng-star-inserted</value>
+      <value>ng-untouched ng-valid ng-star-inserted ng-dirty</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
